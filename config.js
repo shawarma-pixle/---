@@ -52,7 +52,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 // ❰❰ IDIOMAS DISPONIBLES : AVAILABLE LANGUAGES ❱❱
 // Español 👉 es           
 // English 👉 en
-global.lenguajeGB = es
+global.lenguajeGB = ar
 global.mid = esDefault
 global.version_language = '1.0 (MID-GB)'
 
